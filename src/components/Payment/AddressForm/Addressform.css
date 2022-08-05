@@ -1,0 +1,19 @@
+#moveDown {
+    margin: 200px auto;
+}
+#addressHeight {
+    height: 150px;
+}
+.address-buttons {
+    display: flex;
+    justify-content: space-between;
+}
+.address-buttons button {
+    background-color: #006400;
+    padding: 8px 1.5rem;
+    border: 0;
+    border-radius: 3px;
+    color: #fff;
+    font-size: 15px;
+    cursor: pointer;
+}

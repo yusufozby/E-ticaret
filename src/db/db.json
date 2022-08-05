@@ -1,0 +1,365 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "wireless-gaming-bluetooth-headphone",
+      "price": 600,
+      "latest": true,
+      "discount": true,
+      "description": "This is a 1. example description of products",
+      "img": "https://st1.myideasoft.com/idea/cr/39/myassets/products/916/001.jpg?revision=1648801407",
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "name": "Black bag",
+      "price": 542,
+      "latest": true,
+      "discount": true,
+      "description": "This is a 2. example description of products",
+      "img": "https://img-ayakkabidunyasi.mncdn.com/Content/Images/Thumbs/0119173_provoq-siyah-kadin-canta-7898tm487100.jpeg",
+      "categoryId": 2
+    },
+    {
+      "id": 3,
+      "name": "GUU1172G1M Mens clockwirst",
+      "price": 1302,
+      "latest": true,
+      "discount": true,
+      "description": "This is a 3. example description of products",
+      "img": "https://foto-saatvesaat.mncdn.com/mnresize/316/316/media/catalog/product/g/u/guu1172g1m_1.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": 4,
+      "name": "Glass Living room accessory",
+      "price": 4195,
+      "latest": false,
+      "discount": false,
+      "description": "This is a 4. example description of products",
+      "img": "https://www.mimaksesuar.com/wp-content/uploads/2017/07/cam-metal-ayakli-3l%C3%BC-salon-aksesuar-seti.jpg",
+      "categoryId": 7
+    },
+    {
+      "id": 5,
+      "name": "Jack & Jones",
+      "price": 794,
+      "latest": true,
+      "discount": true,
+      "description": "This is a 5. example description of products",
+      "img": "https://jackjones.com.tr/image/cache/catalog/products/12213317/62a8503746a10-360x481.jpeg",
+      "categoryId": 3
+    },
+    {
+      "id": 6,
+      "name": "Siemens WG42A1X0TR 9 Kg 1200 transfer A+++ Washing Machine",
+      "price": 10902,
+      "latest": false,
+      "discount": false,
+      "description": "This is a 6. example description of products",
+      "img": "https://cdn.dsmcdn.com/mnresize/500/-/ty53/product/media/images/20210112/15/52134513/61510855/1/1_org.jpg",
+      "categoryId": 6
+    },
+    {
+      "id": 7,
+      "name": "Walked Mens Yellow  Sport Spikes OZ00441",
+      "price": 200,
+      "latest": false,
+      "discount": false,
+      "description": "This is a 7. example description of products",
+      "img": "https://cdn.dsmcdn.com/mnresize/500/-/ty300/product/media/images/20220120/16/30571921/22285428/1/1_org.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": 8,
+      "name": "panaseonic camera light",
+      "price": 3712,
+      "latest": false,
+      "discount": false,
+      "description": "This is a 8. example description of products",
+      "img": "https://www.kiralikkameracim.com/resources/products/details/touched/panasonic_eva1_1.jpg",
+      "categoryId": 8
+    },
+    {
+      "id": 9,
+      "name": "DZ1480 mens Clockwirst",
+      "price": 6327.94,
+      "latest": false,
+      "discount": false,
+      "description": "This is a 9. example description of products",
+      "img": "https://cdn.saatvesaat.com.tr/mnresize/708/708/media/catalog/product/d/z/dz4180.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": 10,
+      "name": "emperio-armanie-ar2448",
+      "price": 7016,
+      "latest": false,
+      "discount": false,
+      "description": "This is a 10. example description of products",
+      "img": "https://cdn.akakce.com/z/emporio-armani/emporio-armani-ar2448.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": 11,
+      "name": "glsvrscerb00218_versace mens clockwirst",
+      "price": 5416,
+      "latest": false,
+      "discount": false,
+      "description": "This is a 11. example description of products",
+      "img": "https://www.sefamerve.com/image/cache/data/202110/27/glsvrscverb00218_versace_vrscverb00218_erkek_kol_saati_1635329520_1-752x1152.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": 12,
+      "name": "Black women bag",
+      "price": 512,
+      "latest": false,
+      "discount": false,
+      "description": "This is a 12. example description of products",
+      "img": "https://img2-ipekyol.mncdn.com/mnresize/660/-//ipekyol/products/SS22/Stillife/IS1220052099001.JPG",
+      "categoryId": 2
+    },
+    {
+      "id": 13,
+      "name": "Green bag",
+      "price": 451,
+      "latest": false,
+      "discount": false,
+      "description": "This is a 13. example description of products",
+      "img": "https://laco.akinoncdn.com/products/2022/06/01/171730/d7b3f5b5-c6dd-4255-b269-2a2ba6309097_size600x600_cropCenter.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": 14,
+      "name": "black men bag",
+      "price": 279,
+      "latest": false,
+      "discount": false,
+      "description": "This is a 14. example description of products",
+      "img": "https://img-colinstr.mncdn.com/Assets/Branch/Thumbs/siyah_erkek_canta_147448.jpeg",
+      "categoryId": 2
+    },
+    {
+      "id": 15,
+      "name": "Sony FX9 Full HD Camera",
+      "price": 484,
+      "latest": false,
+      "discount": false,
+      "description": "This is a 15. example description of products",
+      "img": "https://cdn.myshoptet.com/usr/www.aqt.sk/user/shop/big/4192_4192-7--canon-xf300-fullhd-profi-kamera.jpg?6142fbd2",
+      "categoryId": 8
+    },
+    {
+      "id": 16,
+      "name": "sony+1zv",
+      "price": 612,
+      "latest": false,
+      "discount": false,
+      "description": "This is a 16. example description of products",
+      "img": "https://cdn.akakce.com/sony/sony-hxr-nx100-profesyonel-kamera-z.jpg",
+      "categoryId": 8
+    },
+    {
+      "id": 17,
+      "name": "Hikvision and AHD",
+      "price": 889,
+      "latest": false,
+      "discount": false,
+      "description": "This is a 17. example description of products",
+      "img": "https://www.eguvenlik.com.tr/ds-2ce16d0t-exif-fiyat-hikvision-hd-kameralar-hikvision-ds-2ce16d0t-exif-18183-86-K.jpg",
+      "categoryId": 8
+    },
+    {
+      "id": 18,
+      "name": "HDTVİ Camera",
+      "price": 1124,
+      "latest": false,
+      "discount": false,
+      "description": "This is a 18. example description of products",
+      "img": "https://www.eguvenlik.com.tr/Data/Kategori/224.jpg",
+      "categoryId": 8
+    },
+    {
+      "id": 19,
+      "name": "LG GR-F802HLHU 592 lt No-Frost Buzdolabı",
+      "price": 17610.23,
+      "latest": false,
+      "discount": false,
+      "description": "This is a 19. example description of products",
+      "img": "https://productimages.hepsiburada.net/s/18/375/9794676162610.jpg",
+      "categoryId": 6
+    },
+    {
+      "id": 20,
+      "name": "white diswasher",
+      "price": 16615.24,
+      "latest": false,
+      "discount": false,
+      "description": "This is a 20. example description of products",
+      "img": "https://media3.bosch-home.com/Product_Shots/1600x900/16361625_SMS8ZDI80T_STP_def.png",
+      "categoryId": 6
+    },
+    {
+      "id": 21,
+      "name": "BOSCH-SMS4H51S",
+      "price": 18194.78,
+      "latest": false,
+      "discount": false,
+      "description": "This is a 21. example description of products",
+      "img": "https://media3.bosch-home.com/Product_Shots/435x515/16894013_SMS4HMB60T_STP_def.png",
+      "categoryId": 6
+    },
+    {
+      "id": 22,
+      "name": "SIEMENS-WM06B061TR-5-5",
+      "price": 20111.21,
+      "latest": false,
+      "discount": false,
+      "description": "This is a 22. example description of products",
+      "img": "https://st1.myideasoft.com/idea/fy/48/myassets/products/941/siemens-wm06b061tr-5-5-kg-600-devir-camasir-makinesi_min.jpg?revision=1645096679",
+      "categoryId": 6
+    },
+    {
+      "id": 23,
+      "name": "HP Computer, 15.6'' FHD, Intel Core i3-1115G4, 4 GB RAM, 256 GB SSD, FreeDOS",
+      "price": 10612.52,
+      "latest": false,
+      "discount": false,
+      "description": "This is a 23. example description of products",
+      "img": "https://m.media-amazon.com/images/I/41XHZMilx+L._AC_SY780_.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 24,
+      "name": "Smart TV",
+      "price": 19114.12,
+      "latest": false,
+      "discount": false,
+      "description": "This is a 24. example description of products",
+      "img": "https://m.media-amazon.com/images/I/81qpdeKzdmS.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 25,
+      "name": "Computer 3",
+      "price": 13114.12,
+      "latest": false,
+      "discount": false,
+      "description": "This is a 25. example description of products",
+      "img": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/lenovo/thumb/132540-1_small.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 26,
+      "name": "Sport shoes",
+      "price": 311.14,
+      "latest": false,
+      "discount": false,
+      "description": "This is a 26. example description of products",
+      "img": "https://www.jump.com.tr/jump-26505-beyaz-acik-gri-erkek-spor-ayakkabi-sneaker-jump-126847-39-O.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": 27,
+      "name": "Adidas sport shoes",
+      "price": 406.84,
+      "latest": false,
+      "discount": false,
+      "description": "This is a 27. example description of products",
+      "img": "https://m.media-amazon.com/images/I/31iK1bMpNbL._AC_SY1000_.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": 28,
+      "name": "Beautiful sport men shoes",
+      "price": 511.42,
+      "latest": false,
+      "discount": false,
+      "description": "This is a 28. example description of products",
+      "img": "https://sportive.akinoncdn.com/products/2022/02/10/371434/3521410d-e8c3-4d86-acd0-a9ab6d5e64b2_size300x300.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": 29,
+      "name": "colorful sport shoes",
+      "price": 295.71,
+      "latest": false,
+      "discount": false,
+      "description": "This is a 29. example description of products",
+      "img": "https://www.markapark.com/Uploads/UrunResimleri/thumb/kadin-spor-ayakkabi-101-22505-z-meri-z-c69-42.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": 30,
+      "name": "TEE SHİRT",
+      "price": 566.21,
+      "latest": false,
+      "discount": false,
+      "description": "This is a 30. example description of products",
+      "img": "https://dictionary.cambridge.org/tr/images/thumb/Tshirt_noun_001_18267_2.jpg?version=5.0.248",
+      "categoryId": 3
+    },
+    {
+      "id": 31,
+      "name": "MENSS T-SHİRT",
+      "price": 142.41,
+      "latest": false,
+      "discount": false,
+      "description": "This is a 31. example description of products",
+      "img": "https://vakko.akinoncdn.com/products/2022/03/14/1299680/592af2ee-2f1c-446f-86c8-29505404bf3a_size470x940_quality100.jpg",
+      "categoryId": 3
+    },
+    {
+      "id": 32,
+      "name": "White T-shirt",
+      "price": 532.51,
+      "latest": false,
+      "discount": false,
+      "description": "This is a 32. example description of products",
+      "img": "https://media.dior.com/couture/ecommerce/media/catalog/product/r/1/1604513181_113J692A0614_C020_E01_GHC.jpg?imwidth=800",
+      "categoryId": 3
+    },
+    {
+      "id": 33,
+      "name": "Black great mens T-shirt",
+      "price": 312.21,
+      "latest": false,
+      "discount": false,
+      "description": "This is a 33. example description of products",
+      "img": "https://img.kytary.com/eshop_ie/velky_v2/na/636885989692130000/e56808f6/64644566/jackson-guitar-shapes-t-shirt-black-m.jpg",
+      "categoryId": 3
+    },
+    {
+      "id": 34,
+      "name": "Golden Horse accessory",
+      "price": 15641.32,
+      "latest": false,
+      "discount": false,
+      "description": "This is a 34. example description of products",
+      "img": "https://ceylanbronz.com/wp-content/uploads/CB-6129-AC-aksesuar-at-princ-dokum.jpg",
+      "categoryId": 7
+    },
+    {
+      "id": 35,
+      "name": "Golden leaf accessory",
+      "price": 34612.51,
+      "latest": false,
+      "discount": false,
+      "description": "This is a 35. example description of products",
+      "img": "https://www.krvn.com.tr/181467-k238-metal-dekoratif-aksesuar-47x23x5cm-dekoratif-obje-hsh-krvn-ortak-2636469-43-K.jpg",
+      "categoryId": 7
+    }
+  ],
+  "Comments": [
+    {
+      "commentVal": "Bu bir örnek yorumdur.",
+      "commentUrl": "",
+      "commentuser": "Yusuf Özbay",
+      "commentMail": "Ozbay.yusuf02@gmail.com",
+      "commentDate": "1 / 8 / 2022",
+      "id": 1
+    }
+  ],
+  "cart": []
+}

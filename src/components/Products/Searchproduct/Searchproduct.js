@@ -1,0 +1,35 @@
+import React, { useContext } from 'react'
+import {useParams} from 'react-router-dom';
+import { DataContext } from '../../../Context';
+const Searchproduct = () => {
+    const data= useContext(DataContext);
+    const {id} = useParams();
+    console.log(id);
+ const categoryProduct = data.products.filter(cat => cat.categoryId === Number(id) );
+    return (
+    <div id='allproducts' className='latest-products'>
+         {
+     categoryProduct.map((prod)=>(
+      <div  className='column'>
+         <div className='product-card'>
+         <a href={'/product/'+prod.id}>  <img alt='' className='product-img' src={prod.img}/> </a> 
+          <div className='product-card-body'>
+       <strong className='product-name'>{prod.name}</strong>
+
+           
+            <span className='product-desc'> {prod.description}</span>
+       {  prod.discount ?  <><span className='product-price-without-discount'> {prod.price+"₺"}</span> <span className='product-price'>{Number((prod.price*75)/100)+"₺"}</span> </>   : <span  className='product-price'>{prod.price+"₺"}</span>  }
+       <br/>
+     
+
+            <a href={'/product/'+prod.id} className='product-btn'>View Product </a>
+            </div> 
+         </div>
+        </div>
+      ))
+}
+    </div>
+  )
+}
+
+export default Searchproduct
